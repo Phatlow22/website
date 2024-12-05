@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Here We Go Again</title>
+    <style>
+        h1 {
+            color:olivedrab;
+            background-color: black;
+            width: fit-content;
+            margin:auto
+        }
+        h2 {
+            color:olivedrab;
+            background-color: black;
+            width: fit-content;
+            margin:auto
+        }
+        body {
+            color:olivedrab;
+            background-color: whitesmoke;
+            width: fit-content;
+            margin:auto
+        }
+        p {
+            color: olivedrab;
+        }
+    </style>
+</head>
+<body>
+    <h1>MARCHING CADENCES</h1>
+    <h2>Name: Here We Go Again</h2>
+    <p>
+        Here we go again<br>
+Same old stuff again<br>
+Marching down the avenue<br>
+Few more days and we'll be though<br>
+I won't have to look at you<br>
+So, I'll be glad and so will you<br>
+<p>
+<a href="index.html">Click here for home page.</a> 
+    </p>
+</body>
+</html>

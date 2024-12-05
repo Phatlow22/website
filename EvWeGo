@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Everywhere We Go</title>
+    <style>
+        h1 {
+            color:olivedrab;
+            background-color: black;
+            width: fit-content;
+            margin:auto
+        }
+        h2 {
+            color:olivedrab;
+            background-color: black;
+            width: fit-content;
+            margin:auto
+        }
+        body {
+            color:olivedrab;
+            background-color: whitesmoke;
+            width: fit-content;
+            margin:auto
+        }
+        p {
+            color: olivedrab;
+        }
+    
+        
+    </style>
+</head>
+<body>
+    <h1>MARCHING CADENCES</h1>
+    <h2>Name: Everywhere We Go</h2>
+    <p>
+        Everywhere We Go
+Everywhere we go - oh<br>
+People wanna know - oh<br>
+Who we are<br>
+Where we come from<br>
+So we tell them<br>
+We are ______ (Alpha, Bravo,etc)<br>
+(Alpha used as example)<br>
+Mighty Mighty Alpha<br>
+Rough - n- tough Alpha<br>
+Straight shooting Alpha<br>
+Better than Bravo<br>
+Big baby Bravo<br>
+Better than Charlie<br>
+Chicken chicken Charlie<br>
+Better than Delta<br>
+Dumb-dumb Delta<br>
+Better than Echo<br>
+Icky icky Echo<br>
+We are Alpha<br>
+Mighty Mighty Alpha<br>
+<p>
+<a href="index.html">Click here for home page.</a> 
+    </p>
+</body>
+</html>

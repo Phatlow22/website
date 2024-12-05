@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>When I get to heaven</title>
+    <style>
+        h1 {
+            color:olivedrab;
+            background-color: black;
+            width: fit-content;
+            margin:auto
+        }
+        h2 {
+            color:olivedrab;
+            background-color: black;
+            width: fit-content;
+            margin:auto
+        }
+        body {
+            color:olivedrab;
+            background-color: whitesmoke;
+            width: fit-content;
+            margin:auto
+        }
+        p {
+            color: olivedrab;
+        }
+    </style>
+</head>
+<body>
+    <h1>RUNNING CADENCES</h1>
+    <h2>Name: When I get to heaven</h2>
+    <p>
+        When I get to heaven<br>
+St. Peter's gonna say,<br>
+"How'd you earn your livin' boy,<br>
+How'd you earn your pay?"<br>
+I'll reply with a whole lot of anger,<br>
+"Made my living as an Airborne Ranger!<br>
+Blood, guts, sex, and danger<br>
+That's the life of an Airborne Ranger!"<br>
+When I get to Hell<br>
+Satan's gonna say,<br>
+"How'd you earn your livin' boy,<br>
+How'd you earn your pay?"<br>
+I'll reply with a fist to his face,<br>
+"Made my living laying SOULS to waste!" <br>
+<p>
+<a href="index.html">Click here for home page.</a> 
+    </p>
+</body>
+</html>

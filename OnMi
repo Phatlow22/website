@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>One Mile</title>
+    <style>
+        h1 {
+            color:olivedrab;
+            background-color: black;
+            width: fit-content;
+            margin:auto
+        }
+        h2 {
+            color:olivedrab;
+            background-color: black;
+            width: fit-content;
+            margin:auto
+        }
+        body {
+            color:olivedrab;
+            background-color: whitesmoke;
+            width: fit-content;
+            margin:auto
+        }
+        p {
+            color: olivedrab;
+        }
+    </style>
+</head>
+<body>
+    <h1>RUNNING CADENCES</h1>
+    <h2>Name: One Mile</h2>
+    <p>
+        One mile<br>
+        No sweat<br>
+        Two miles<br>
+        Better yet<br>
+        Three miles<br>
+        Gotta run<br>
+        Four miles<br>
+        To the sun <br>
+<p>
+<a href="index.html">Click here for home page.</a> 
+    </p>
+</body>
+</html>
